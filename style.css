@@ -20,13 +20,17 @@
             font-size: 20px;
             
             margin-bottom: 6px 
-        
         }
 
         h1{
             text-align: center;
         }
 
-        tfoot td{
-            background-color: #98a4a3;
+        table th{
+            background: #d1dad8;
         }
+
+        td{
+            font-style: oblique;
+        }
+
